@@ -2,7 +2,7 @@
 
 ## Chat
 
-This idea is based off of a chat with ChatGPT in order to build out some intentional practice. The chat can be found [here]("chat.md")
+This idea is based off of a chat with ChatGPT in order to build out some intentional practice. The chat can be found [here](chat.md)
 
 ## Parameters
 
